@@ -19,7 +19,7 @@ Hi, I'm [Pratik Daigavane](https://pratikdaigavane.me), a Full Stack Developer �
 - ✨ Former Summer Fellow @ [FOSSEE - IIT Bombay](https://fossee.in/)
 - 🌱 Learning Cloud Computing and DevOps; 
 - 💬 I'm open for tech talks and Internship Opportunities;
-- 📝[Resume](https://rebrand.ly/pratikdaigavane)
+- 📝[Resume](https://link.pratikdaigavane.me/resume)
 
 **Technologies**  
 
