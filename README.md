@@ -15,7 +15,7 @@ Hi, I'm [Pratik Daigavane](https://pratikdaigavane.me), a Full Stack Developer �
 **Some highlights about me:**
 
 - 👨🏽‍💻 Currently working on [Execute It](https://executeit.ml), a Realtime Code Collaboration and Code Execution Platform;
-- 🚀Full Stack Intern @ [iMocha](https://www.interviewmocha.com) where we have built a robust and scalable [Online IDE](https://ide.interviewmocha.com)
+- 🚀Backend Intern @ [FamPay](https://www.fampay.in)
 - ✨ Former Summer Fellow @ [FOSSEE - IIT Bombay](https://fossee.in/)
 - 🌱 Learning Cloud Computing and DevOps; 
 - 💬 I'm open for tech talks and Internship Opportunities;
