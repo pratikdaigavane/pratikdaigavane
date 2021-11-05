@@ -20,7 +20,7 @@ Hi, I'm [Pratik Daigavane](https://pratikdaigavane.me), a Full Stack Developer �
 - 🌱 Learning Cloud Computing and DevOps; 
 - 💬 I'm open for tech talks and Internship Opportunities;
 - 📝 [Resume](https://link.pratikdaigavane.me/resume)
-- 📚 Read my Blogs here : [blogs.pratikd.in](https://blog.pratikd.in)
+- 📚 Read my Blogs here : [blog.pratikd.in](https://blog.pratikd.in)
 - 📑 Read my Notes here : [notes.pratikd.in](https://notes.pratikd.in)
 
 **Technologies**  
