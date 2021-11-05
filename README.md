@@ -15,11 +15,13 @@ Hi, I'm [Pratik Daigavane](https://pratikdaigavane.me), a Full Stack Developer �
 **Some highlights about me:**
 
 - 👨🏽‍💻 Currently working on [Execute It](https://executeit.ml), a Realtime Code Collaboration and Code Execution Platform;
-- 🚀Backend Intern @ [FamPay](https://www.fampay.in)
+- 🚀 Backend Intern @ [FamPay](https://www.fampay.in)
 - ✨ Former Summer Fellow @ [FOSSEE - IIT Bombay](https://fossee.in/)
 - 🌱 Learning Cloud Computing and DevOps; 
 - 💬 I'm open for tech talks and Internship Opportunities;
-- 📝[Resume](https://link.pratikdaigavane.me/resume)
+- 📝 [Resume](https://link.pratikdaigavane.me/resume)
+- 📚 Read my Blogs here : [blogs.pratikd.in](https://blog.pratikd.in)
+- 📑 Read my Notes here : [notes.pratikd.in](https://notes.pratikd.in)
 
 **Technologies**  
 
